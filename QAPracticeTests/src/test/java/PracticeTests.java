@@ -110,8 +110,6 @@ public class PracticeTests {
 
         driver.findElement(By.id("emailAddress")).sendKeys("test@test.com");
         driver.findElement(By.id("exampleCheck1")).click();
-
-
         driver.findElement(By.id("registerBtn")).click();
         WebElement passwordInput = driver.findElement(By.id("password"));
         JavascriptExecutor js = (JavascriptExecutor) driver;
