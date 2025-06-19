@@ -3,7 +3,7 @@
 ## Opis Projekta
 Ovaj projekt predstavlja automatizirani testni okvir razvijen u Javi, koristeći Selenium WebDriver i TestNG. Namijenjen je za testiranje funkcionalnosti web aplikacije QA Practice(https://qa-practice.netlify.app), koja služi kao platforma za učenje i vježbanje različitih tehnika testiranja.
 
-Projekt se sastoji od 6 automatiziranih testnih slučajeva koji pokrivaju ključna područja interakcije s web elementima, poput radio gumbova, rada sa formama, itd.
+Projekt se sastoji od 6 automatiziranih testnih slučajeva koji pokrivaju ključna područja interakcije s web elementima, poput radio gumba, rada sa formama, itd.
 
 
 ## Korišteni Alati i Tehnologije
